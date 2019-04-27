@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EmployeeManagementSystem</string>
+    <string name="date_picker_title">Ngày Thuê</string>
+    <string name="new_employee">Nhân Viên Mới</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s crimes</string>
+    <string name="choose_menu">Danh Mục Lựa Chọn</string>
+    <string name="view_all_employees">Danh Sách Nhân Viên</string>
+    <string name="remove_employee">Xóa Nhân Viên</string>
+    <string name="update_employee">Cập nhật Nhân Viên</string>
+    <string name="add_employee">Thêm Nhân Viên</string>
+    <string name="gender">Giới tính</string>
+    <string name="phone">SĐT</string>
+    <string name="add_first_name">Tên</string>
+    <string name="string_male">Nam</string>
+    <string name="string_female">Nữ</string>
+    <string name="add_date">Ngày thuê (DD/MM/YYYY)</string>
+    <string name="add_dept">Department</string>
+    <string name="enter_employee_id">Nhập ID nhân viên</string>
+    <string name="settings">Cài đặt</string>
+    <string name="button_OK">OK</string>
+    <string name="setPassword">Cài đặt mật khẩu (6 chữ số)</string>
+    <string name="edit_Password">Nhập mật khẩu (6 chữ số)</string>
+</resources>
